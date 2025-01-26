@@ -1,0 +1,9 @@
+Test Category,Details,Recommendations
+Performance Monitor,Filters and performance data observed for Men's Running Shoes. Response times and network activity tracked.,Optimize network calls and reduce payload size for faster performance.
+Responsiveness Testing,Responsiveness tested; no UI disruptions identified across screen sizes.,Ensure continued testing across devices to maintain responsiveness.
+Security Observations,Page tested under non-HTTPS origin; recommendation to implement HTTPS for improved security.,Implement HTTPS for secure communication.
+API Response Validation,API responses validated; no issues identified in data integrity and response structure.,Regularly validate API endpoints for compliance and accuracy..
+Lighthouse Report Performance,Performance scored at 55; major issues with Largest Contentful Paint (9.2s).,Optimize Largest Contentful Paint by reducing large assets and prioritizing visible content.
+Lighthouse Report Accessibility,Performance is showing too many erros ,Will work on optimizing this to improve performance and make it perfect.
+Lighthouse Report Best Practices,Performance is showing too many erros ,Will work on optimizing this to improve performance and make it perfect.
+Lighthouse Report SEO,Performance need significant improvments,Will work on optimizing this to improve performance and make it perfect.
